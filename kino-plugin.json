@@ -1,0 +1,18 @@
+{
+  "id": "xuper",
+  "name": "Xuper",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "entry": "plugin.js",
+  "description": "El portal de Magis, presentado como un plugin más.",
+  "hosts": [
+    "kino-plugin-xuper.example"
+  ],
+  "capabilities": [
+    "search",
+    "home",
+    "browse",
+    "episodes",
+    "resolve"
+  ]
+}
