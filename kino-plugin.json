@@ -14,5 +14,7 @@
     "browse",
     "episodes",
     "resolve"
-  ]
+  ],
+  "color": "#2B6CD9",
+  "icon": "icon.png"
 }
